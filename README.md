@@ -1,5 +1,4 @@
 # Applied-Econometrics-and-Time-Series-
-Analyse the effect of GDP on the suicides using Fixed Effects Model
 
 OBJECTIVE: Our objective for this project was to investigate the relationship between suicide rates and GDP of 101 different countries over 32 years.
 
